@@ -246,7 +246,7 @@ def menu():
 	elif angga == "7" or angga == "07":
 		os.system("rm -f login.txt")
 		login()
-    elif angga == "8" or angga == "05":
+   	elif angga == "8" or angga == "08":
 		grupsaya()
 	elif angga == "0" or angga == "00":
 		os.system("rm -f login.txt")
